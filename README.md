@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=300&section=header&text=COMA'S%20GITHUB&fontSize=70&fontColor=FFFFFF&fontAlignY=30&desc=Per%20Aspera%20Ad%20Astra.&descAlign=50&descAlignY=50&animation=twinkling" />
 </div>
-<br>
-<br>
 <h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; SKILLS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
 <br>
 <div align="center">
