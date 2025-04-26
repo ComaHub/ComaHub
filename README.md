@@ -3,24 +3,32 @@
 </div>
 <br>
 <br>
-<hr>
-<h3 align="center">✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* &nbsp;&nbsp; GITHUB STATS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; SKILLS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark" alt="Coma's Github Stats" />
-</div>
+<hr>
+<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; STATS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark" alt="Coma's Github Stats" />
 </div>
 <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark" alt="Coma's Github Stats" />
+</div>
+<br>
+<h3 align="center">✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; ⛣ &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
+<br>
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" />
+</div>
+<br>
 <br>
 <hr>
-<h3 align="center">✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* &nbsp;&nbsp; CONTACT &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; CONTACT &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
 <br>
 <div align="center">
   <a href="mailto:comasocean@gmail.com">
-    <img src="https://img.shields.io/badge/comasocean@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 <br>
