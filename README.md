@@ -4,7 +4,7 @@
 <br>
 <br>
 <hr>
-<h3 align="center">GITHUB STATS</h3>
+<h3 align="center">✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* &nbsp;&nbsp; GITHUB STATS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark" alt="Coma's Github Stats" />
@@ -16,12 +16,15 @@
 <br>
 <br>
 <hr>
-<h3 align="center">CONTACT</h3>
+<h3 align="center">✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* ✧･ﾟ: *✧･ﾟ:* &nbsp;&nbsp; CONTACT &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<br>
 <div align="center">
   <a href="mailto:comasocean@gmail.com">
     <img src="https://img.shields.io/badge/comasocean@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+<br>
+<br>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=150&section=footer" />
 </div>
