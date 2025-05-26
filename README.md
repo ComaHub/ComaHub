@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=300&section=header&text=COMA'S%20GITHUB&fontSize=70&fontColor=FFFFFF&fontAlignY=30&desc=Per%20Aspera%20Ad%20Astra.&descAlign=50&descAlignY=50&animation=twinkling" />
 </div>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; SKILLS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * ✧ * ✧ * ✧ * ✧ * &nbsp;&nbsp; SKILLS &nbsp;&nbsp; * ✧ * ✧ * ✧ * ✧ * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=buyMeACoffee&logoColor=white" />
 </div>
 <br>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; STUDY &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * &nbsp;&nbsp; STUDY &nbsp;&nbsp; * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/jquery-000000.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/amazon%20ws-000000.svg?style=for-the-badge&logo=icloud&logoColor=white" />
 </div>
 <br>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; TOOLS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * &nbsp;&nbsp; TOOLS &nbsp;&nbsp; * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
@@ -46,7 +46,7 @@
 <br>
 <br>
 <hr>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; STATS &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * ✧ * ✧ * ✧ * ✧ * &nbsp;&nbsp; STATS &nbsp;&nbsp; * ✧ * ✧ * ✧ * ✧ * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark" alt="Coma's Github Stats" />
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark" alt="Coma's Github Stats" />
 </div>
 <br>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; ⛣ &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * &nbsp;&nbsp; ⛣ &nbsp;&nbsp; * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" />
@@ -64,7 +64,7 @@
 <br>
 <br>
 <hr>
-<h3 align="center">✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* ✧･ﾟ:*✧･ﾟ:* &nbsp;&nbsp; CONTACT &nbsp;&nbsp; *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧ *:･ﾟ✧*:･ﾟ✧</h3>
+<h3 align="center">* ✧ * ✧ * ✧ * ✧ * ✧ * ✧ * &nbsp;&nbsp; CONTACT &nbsp;&nbsp; * ✧ * ✧ * ✧ * ✧ * ✧ * ✧ *</h3>
 <br>
 <div align="center">
   <a href="mailto:comasocean@gmail.com">
