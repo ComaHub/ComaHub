@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=300&section=header&text=COMA'S%20GITHUB&fontSize=70&fontColor=FFFFFF&fontAlignY=30&desc=Per%20Aspera%20Ad%20Astra.&descAlign=50&descAlignY=50&animation=twinkling" />
 </div>
-<div align="center">
-  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FComaHub?color=blue&label=Hits&size=small" alt="Hits" /></a>
-</div>
 <h3 align="center">SKILLS</h3>
 <br>
 <div align="center">
@@ -48,7 +45,6 @@
 </div>
 <br>
 <br>
-<hr>
 <h3 align="center">STATS</h3>
 <br>
 <div align="center">
@@ -65,7 +61,6 @@
 </div>
 <br>
 <br>
-<hr>
 <h3 align="center">CONTACT</h3>
 <br>
 <div align="center">
@@ -75,6 +70,11 @@
 </div>
 <br>
 <br>
+<br>
+<br>
+<div align="center">
+  <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FComaHub?color=blue&label=Hits&size=small" alt="Hits" /></a>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=150&section=footer" />
 </div>
