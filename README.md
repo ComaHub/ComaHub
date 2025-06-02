@@ -12,12 +12,21 @@
 <hr>
 <div align="center">
   <img align="left" width=370 src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=SKILL" alt="Typing SVG" /></a>
   <div align="center">
     <img height=25 src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img height=25 src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
     <img height=25 src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
     <img height=25 src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=buyMeACoffee&logoColor=white" />
+  </div>
+  <div>
+    <img height=25 src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" /><br>
+    <img height=25 src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=codecademy&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
   </div>
 </div>
 <br>
