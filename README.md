@@ -27,7 +27,7 @@
 <br>
 <hr>
 <div align="center">
-  <img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" /> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark&count_private=true" /> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" /> &nbsp;&nbsp;
+  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark&count_private=true" /> &nbsp;&nbsp;
   <img width=300 src="http://mazandi.herokuapp.com/api?handle=livecode&theme=dark" />
 </div>
