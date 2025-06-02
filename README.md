@@ -1,6 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=300&section=header&text=COMA'S%20GITHUB&fontSize=70&fontColor=FFFFFF&fontAlignY=30&desc=Per%20Aspera%20Ad%20Astra.&descAlign=50&descAlignY=50&animation=twinkling" />
+  <a href="https://git.io/streak-stats"><img align="right" width=450 src="https://streak-stats.demolab.com?user=ComaHub&theme=dark" alt="GitHub Streak" /></a>
+  <h3>✨ COMA ✨</h3>
+  
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<div>
+  <img align="left" width=450 src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" />
+  
+  
+  
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<div align="center">
+  <img width=310 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark&count_private=true" /> &nbsp;&nbsp;
+  <img width=300 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" /> &nbsp;&nbsp;
+  <img width=300 src="http://mazandi.herokuapp.com/api?handle=livecode&theme=dark" />
+</div>
+
+
+
+
+
+
+
+
+
+
 <h3 align="center">SKILLS</h3>
 <br>
 <div align="center">
@@ -48,16 +88,13 @@
 <h3 align="center">STATS</h3>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark&count_private=true" alt="Coma's Github Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" alt="Coma's Github Stats" />
+  
 </div>
 <br>
 <br>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" />
+<div align="center" style="display: flex;">
+  
+  
 </div>
 <br>
 <br>
@@ -75,6 +112,32 @@
 <div align="center">
   <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FComaHub?color=blue&label=Hits&size=small" alt="Hits" /></a>
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=150&section=footer" />
+  <table cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <div align="center">
+          
+        </div>
+        <div align="center">
+          
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          
+        </div>
+        <div align="center">
+          
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+</div>
+
+<div align="center">
 </div>
