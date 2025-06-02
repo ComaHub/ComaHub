@@ -14,10 +14,10 @@
   <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=SKILL" alt="Typing SVG" /></a>
   <div align="center">
-    <img height=25 src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    <img height=25 src="https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-    <img height=25 src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
-    <img height=25 src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=buyMeACoffee&logoColor=white" />
+    <img height=25 src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=buyMeACoffee&logoColor=white" />
   </div>
 </div>
 <br>
