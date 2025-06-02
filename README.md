@@ -9,7 +9,6 @@
     <a href="mailto:comasocean@gmail.com"><img height=20 src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </div>
 </div>
-<br>
 <hr>
 <div align="center">
   <img align="left" width=380 src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" />
@@ -21,7 +20,6 @@
     <img height=25 src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=buyMeACoffee&logoColor=white" />
   </div>
 </div>
-<br>
 <br>
 <br>
 <br>
