@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <a href="https://git.io/streak-stats"><img align="right" width=400 src="https://streak-stats.demolab.com?user=ComaHub&theme=dark" alt="GitHub Streak" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=COMA" alt="Typing SVG" /></a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Per+Aspera+Ad+Astra." alt="Typing SVG" /></a>
@@ -11,10 +11,10 @@
 </div>
 <br>
 <hr>
-<div align="center">
+<div align="right">
   <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=ComaHub&show_icons=true&theme=dark&count_private=true" />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=SKILL" alt="Typing SVG" /></a>
-  <div>
+  <div align="center">
     <img height=25 src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img height=25 src="https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
     <img height=25 src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp
