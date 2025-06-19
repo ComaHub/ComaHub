@@ -26,7 +26,8 @@
     <img height=25 src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" /><br>
     <img height=25 src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=codecademy&logoColor=white" />&nbsp
     <img height=25 src="https://img.shields.io/badge/intellij-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />&nbsp
-    <img height=25 src="https://img.shields.io/badge/eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
+    <img height=25 src="https://img.shields.io/badge/eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
+    <img height=25 src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   </div>
 </div>
 <br>
