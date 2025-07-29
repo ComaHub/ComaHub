@@ -40,5 +40,5 @@
 <div align="center">
   <img width=260 src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" /> &nbsp;&nbsp;
   <img width=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComaHub&layout=compact&theme=dark&count_private=true" /> &nbsp;&nbsp;
-  <img width=260 src="http://mazandi.herokuapp.com/api?handle=livecode&theme=dark" />
+  <a href="https://github.com/devxb/gitanimals"><img width=260 src="https://render.gitanimals.org/farms/ComaHub"/></a>
 </div>
